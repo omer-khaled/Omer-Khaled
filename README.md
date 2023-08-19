@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/omer-khaled/omer-khaled/blob/main/images/personalImage.jpeg' alt = 'omerkhaled' width='500px' height='300px' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Omer%20Khaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omer-khaled-3b6bab223/)](https://www.linkedin.com/in/omer-khaled-3b6bab223/) [![Gmail Badge](https://img.shields.io/badge/-omerkhaled-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omerkhaledmohamedmohamed123@gmail.com)](omerkhaledmohamedmohamed123@gmail.com) [![portfolio Badge](https://img.shields.io/badge/-Omer%20Khaled portfolio-blue?style=flat-square&logo=portfolio&logoColor=white&link=https://omer-khaled.github.io/OmerKhaled/)](https://omer-khaled.github.io/OmerKhaled/)
+[![Linkedin Badge](https://img.shields.io/badge/-Omer%20Khaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omer-khaled-3b6bab223/)](https://www.linkedin.com/in/omer-khaled-3b6bab223/) [![Gmail Badge](https://img.shields.io/badge/-omerkhaled-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omerkhaledmohamedmohamed123@gmail.com)](omerkhaledmohamedmohamed123@gmail.com) [![portfolio Badge](https://img.shields.io/badge/-Omer%20Khaled%20portfolio-blue?style=flat-square&logo=portfolio&logoColor=white&link=https://omer-khaled.github.io/OmerKhaled/)](https://omer-khaled.github.io/OmerKhaled/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omer-khaled" alt="omer-khaled" /> </p>
 
 <div style="text-align: right">Programming is my life 🤩 🥳 </div>
