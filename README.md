@@ -1,4 +1,4 @@
-## Hey, [Joonguini is here!](https://www.youtube.com/@joonguinirecipes)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Omer is here!]([https://www.youtube.com/@joonguinirecipes](https://omer-khaled.github.io/OmerKhaled/))  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome To Our Kitchen neeerds ! </h1> 
 
